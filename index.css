@@ -1,0 +1,77 @@
+body
+{
+	background-color: aqua;
+}
+h1
+{
+font-size: 30px;
+text-align: center;
+text-decoration: underline;
+}
+
+h2
+{
+	text-align: center;
+	color: red;
+
+}
+li
+{
+	font-size: 30px;
+	padding: blue 50px;
+}
+ul
+{
+	padding: blue 30px;
+	margin: 30px;
+}
+div
+{
+	margin: 30px;
+	padding: royalblue;
+	padding: 90px;
+	padding-bottom: -20px;
+}
+
+p
+{
+	font-size: 20px;
+}
+#infocomplementaire
+{
+	width: 1000px;
+height: 50px;
+margin: 50px;
+margin-left: 300px;
+margin-top: 0px;
+margin-bottom: 10px;
+margin-right: 80px;
+background-color: #b9edea;
+}
+#infocomplementaire1
+{
+	font-size: 20px;
+	margin-left: 0px;
+	padding: 20px;
+
+}
+#entete1
+{
+margin-bottom: -100px;	
+}
+#adresse
+{
+	float: top; 
+	width: 130px;
+	padding-left: 30px;
+height: 70px;
+margin: 10px;
+margin-left: 30px;
+margin-top: -50px;
+margin-bottom: 40px;
+background-color: #b9edea;	
+}
+strong
+{
+	text-decoration: underline;
+}
